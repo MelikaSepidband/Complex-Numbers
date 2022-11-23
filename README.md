@@ -1,5 +1,5 @@
 # Complex-Numbers
-Design and implement a class for maintaining and working with Complex numbers.  
+Design and implementation a class for maintaining and working with Complex numbers.  
 Which has some operators:  
 "++" operator : for adding 1 to the Real part of the number  
 "--" operator : for subtracting 1 from the Real part of the number  
